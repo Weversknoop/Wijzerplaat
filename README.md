@@ -1,2 +1,2 @@
-# LInkLibVersa
-Link maken tussen LibreLinkup en Versa 3
+#Wijzerplaat  
+Wijzerplaat met glucose, hartritme en bloeddruk
